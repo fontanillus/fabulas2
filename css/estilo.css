@@ -37,11 +37,11 @@ article > h2 {
 
 article > img {
     float: right;
-    width: 35%;
+    width: 15%;
     max-width: 360px;
     min-width: 220px;
     height: auto;
-    margin: -2.9em 26px 20px 44px;
+    margin: -2.5em 26px 20px 44px;
 }
 
 article > p {
